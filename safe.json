@@ -1,0 +1,1061 @@
+{
+    "pokemon": [
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg",
+        "type": "grass,poison",
+        "description": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy."
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg",
+        "type": "grass, poison",
+        "description": "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom."
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg",
+        "type": "grass, poison",
+        "description": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy."
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg",
+        "type": "fire",
+        "description": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places."
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg",
+        "type": "fire",
+        "description": "Tough fights could excite this POKéMON. When excited, it may blow out bluish- white flames."
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg",
+        "type": "fire, flying",
+        "description": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely."
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/7.svg",
+        "type": "water",
+        "description": "Shoots water at prey while in the water. Withdraws into its shell when in danger."
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/8.svg",
+        "type": "water",
+        "description": "When tapped, this POKéMON will pull in its head, but its tail will still stick out a little bit."
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg",
+        "type": "water",
+        "description": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose."
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/10.svg",
+        "type": "bug",
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/11.svg",
+        "type": "bug",
+        "description": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell."
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/12.svg",
+        "type": "bug, flying",
+        "description": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain."
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/13.svg",
+        "type": "bug, poison",
+        "description": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/14.svg",
+        "type": "bug, poison",
+        "description": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/15.svg",
+        "type": "bug, poison",
+        "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
+    },
+    {
+        "id": 16,
+        "name": "Pidgey",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/16.svg",
+        "type": "normal, flying",
+        "description": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/17.svg",
+        "type": "normal, flying",
+        "description": "This POKéMON is full of vitality. It constantly flies around its large territory in search of prey."
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/18.svg",
+        "type": "normal, flying",
+        "description": "This POKéMON flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/19.svg",
+        "type": "normal",
+        "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/20.svg",
+        "type": "normal,",
+        "description": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/21.svg",
+        "type": "normal, flying",
+        "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/22.svg",
+        "type": "normal, flying",
+        "description": "A POKéMON that dates back many years. If it senses danger, it flies high and away, instantly."
+    },
+    {
+        "id": 23,
+        "name": "Ekans",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/23.svg",
+        "type": "poison",
+        "description": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/24.svg",
+        "type": "poison",
+        "description": "The frightening patterns on its belly have been studied. Six variations have been confirmed."
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/25.svg",
+        "type": "electric",
+        "description": "It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you."
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/26.svg",
+        "type": "electric",
+        "description": "Its long tail serves as a ground to protect itself from its own high voltage power."
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/27.svg",
+        "type": "ground",
+        "description": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew."
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/28.svg",
+        "type": "ground",
+        "description": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day."
+    },
+    {
+        "id": 29,
+        "name": "Nidoran-f",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/29.svg",
+        "type": "poison",
+        "description": "A mild-mannered POKéMON that does not like to fight. Beware, its small horns secrete venom."
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/30.svg",
+        "type": "poison",
+        "description": "When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed."
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/31.svg",
+        "type": "poison, ground",
+        "description": "Tough scales cover the sturdy body of this POKéMON. It appears that the scales grow in cycles."
+    },
+    {
+        "id": 32,
+        "name": "Nidoran-m",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/32.svg",
+        "type": "poison",
+        "description": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting."
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/33.svg",
+        "type": "poison",
+        "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom."
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/34.svg",
+        "type": "poison, ground",
+        "description": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond."
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/35.svg",
+        "type": "fairy",
+        "description": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often."
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/36.svg",
+        "type": "fairy",
+        "description": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people."
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/37.svg",
+        "type": "fire",
+        "description": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails."
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/38.svg",
+        "type": "fire",
+        "description": "According to an enduring legend, 9 noble saints were united and reincarnated as this POKéMON."
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/39.svg",
+        "type": "normal, fairy",
+        "description": "Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep."
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/40.svg",
+        "type": "normal, fairy",
+        "description": "Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit."
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/41.svg",
+        "type": "poison, flying",
+        "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/42.svg",
+        "type": "poison, flying",
+        "description": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood."
+    },
+    {
+        "id": 43,
+        "name": "Oddish",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/43.svg",
+        "type": "grass, poison",
+        "description": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly."
+    },
+    {
+        "id": 44,
+        "name": "Gloom",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/44.svg",
+        "type": "grass, poison",
+        "description": "Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose- bending stink."
+    },
+    {
+        "id": 45,
+        "name": "Vileplume",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/45.svg",
+        "type": "grass, poison",
+        "description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/46.svg",
+        "type": "bug, grass",
+        "description": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition."
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/47.svg",
+        "type": "bug, grass",
+        "description": "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking."
+    },
+    {
+        "id": 48,
+        "name": "Venonat",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/48.svg",
+        "type": "bug, poison",
+        "description": "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes."
+    },
+    {
+        "id": 49,
+        "name": "Venomoth",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/49.svg",
+        "type": "bug, poison",
+        "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
+    },
+    {
+        "id": 50,
+        "name": "Diglett",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/50.svg",
+        "type": "ground",
+        "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/51.svg",
+        "type": "ground",
+        "description": "A team of triplets that can burrow over 60 MPH. Due to this, some people think it's an earthquake."
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/52.svg",
+        "type": "normal",
+        "description": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/53.svg",
+        "type": "normal",
+        "description": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen."
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/54.svg",
+        "type": "water",
+        "description": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so."
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/55.svg",
+        "type": "water",
+        "description": "Its slim and long limbs end in broad flippers. They are used for swim­ ming gracefully in lakes."
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/56.svg",
+        "type": "fighting",
+        "description": "An agile POKéMON that lives in trees. It angers easily and will not hesitate to attack anything."
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/57.svg",
+        "type": "fighting",
+        "description": "It stops being angry only when nobody else is around. To view this moment is very difficult."
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/58.svg",
+        "type": "fire",
+        "description": "A POKéMON with a friendly nature. However, it will bark fiercely at anything invading its territory."
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/59.svg",
+        "type": "fire",
+        "description": "A legendary POKéMON in China. Many people are charmed by its grace and beauty while running."
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/60.svg",
+        "type": "water",
+        "description": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking."
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/61.svg",
+        "type": "water",
+        "description": "Under attack, it uses its belly  spiral to put the foe to sleep. It then makes its escape."
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/62.svg",
+        "type": "water, fighting",
+        "description": "Swims powerfully using all the muscles in its body. It can even overtake champion swimmers."
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/63.svg",
+        "type": "psychic",
+        "description": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps."
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/64.svg",
+        "type": "psychic",
+        "description": "Many odd things happen if this POKéMON is close by. For example, it makes clocks run backwards."
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/65.svg",
+        "type": "psychic",
+        "description": "A POKéMON that can memorize anything. It never forgets what it learns-- that's why this POKéMON is smart."
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/66.svg",
+        "type": "fighting",
+        "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/67.svg",
+        "type": "fighting",
+        "description": "The belt around its waist holds back its energy. Without it, this POKéMON would be unstoppable."
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/68.svg",
+        "type": "fighting",
+        "description": "One arm alone can move mountains. Using all four arms, this POKéMON fires off awesome punches."
+    },
+    {
+        "id": 69,
+        "name": "Bellsprout",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/69.svg",
+        "type": "grass, poison",
+        "description": "Prefers hot and humid places. It ensnares tiny insects with its vines and devours them."
+    },
+    {
+        "id": 70,
+        "name": "Weepinbell",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/70.svg",
+        "type": "grass, poison",
+        "description": "When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids."
+    },
+    {
+        "id": 71,
+        "name": "Victreebel",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/71.svg",
+        "type": "grass, poison",
+        "description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/72.svg",
+        "type": "water, poison",
+        "description": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it."
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/73.svg",
+        "type": "water, poison",
+        "description": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison."
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/74.svg",
+        "type": "rock, ground",
+        "description": "Commonly found near mountain trails, etc. If you step on one by accident, it gets angry."
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/75.svg",
+        "type": "rock, ground",
+        "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/76.svg",
+        "type": "rock, ground",
+        "description": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air."
+    },
+    {
+        "id": 77,
+        "name": "Ponyta",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/77.svg",
+        "type": "fire",
+        "description": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing."
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/78.svg",
+        "type": "fire",
+        "description": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it."
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/79.svg",
+        "type": "water, psychic",
+        "description": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack."
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/80.svg",
+        "type": "water, psychic",
+        "description": "Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes a SLOWPOKE again."
+    },
+    {
+        "id": 81,
+        "name": "Magnemite",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/81.svg",
+        "type": "electric, steel",
+        "description": "It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves."
+    },
+    {
+        "id": 82,
+        "name": "Magneton",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/82.svg",
+        "type": "electric, steel",
+        "description": "Generates strange radio signals. It raises the temperature by 3.6F degrees within 3,300 feet."
+    },
+    {
+        "id": 83,
+        "name": "Farfetchd",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/83.svg",
+        "type": "normal, flying",
+        "description": "Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing."
+    },
+    {
+        "id": 84,
+        "name": "Doduo",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/84.svg",
+        "type": "normal, flying",
+        "description": "Its short wings make flying difficult. Instead, this POKéMON runs at high speed on developed legs."
+    },
+    {
+        "id": 85,
+        "name": "Dodrio",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/85.svg",
+        "type": "normal, flying",
+        "description": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
+    },
+    {
+        "id": 86,
+        "name": "Seel",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/86.svg",
+        "type": "water",
+        "description": "Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees."
+    },
+    {
+        "id": 87,
+        "name": "Dewgong",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/87.svg",
+        "type": "water, ice",
+        "description": "Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters."
+    },
+    {
+        "id": 88,
+        "name": "Grimer",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/88.svg",
+        "type": "poison",
+        "description": "Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path."
+    },
+    {
+        "id": 89,
+        "name": "Muk",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/89.svg",
+        "type": "poison",
+        "description": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell."
+    },
+    {
+        "id": 90,
+        "name": "Shellder",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/90.svg",
+        "type": "water",
+        "description": "The shell can withstand any attack. However, when it is open, the tender body is exposed."
+    },
+    {
+        "id": 91,
+        "name": "Cloyster",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/91.svg",
+        "type": "water, ice",
+        "description": "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell."
+    },
+    {
+        "id": 92,
+        "name": "Gastly",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/92.svg",
+        "type": "ghost, poison",
+        "description": "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas."
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/93.svg",
+        "type": "ghost, poison",
+        "description": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise."
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/94.svg",
+        "type": "ghost, poison",
+        "description": "A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you."
+    },
+    {
+        "id": 95,
+        "name": "Onix",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/95.svg",
+        "type": "rock, ground",
+        "description": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs."
+    },
+    {
+        "id": 96,
+        "name": "Drowzee",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/96.svg",
+        "type": "psychic",
+        "description": "If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past."
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/97.svg",
+        "type": "psychic",
+        "description": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum."
+    },
+    {
+        "id": 98,
+        "name": "Krabby",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/98.svg",
+        "type": "water",
+        "description": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast."
+    },
+    {
+        "id": 99,
+        "name": "Kingler",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/99.svg",
+        "type": "water",
+        "description": "One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy."
+    },
+    {
+        "id": 100,
+        "name": "Voltorb",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/100.svg",
+        "type": "electric",
+        "description": "It is said to camouflage itself as a POKé BALL. It will self-destruct with very little stimulus."
+    },
+    {
+        "id": 101,
+        "name": "Electrode",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/101.svg",
+        "type": "electric",
+        "description": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion."
+    },
+    {
+        "id": 102,
+        "name": "Exeggcute",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/102.svg",
+        "type": "grass, psychic",
+        "description": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance."
+    },
+    {
+        "id": 103,
+        "name": "Exeggutor",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/103.svg",
+        "type": "grass, psychic",
+        "description": "Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes."
+    },
+    {
+        "id": 104,
+        "name": "Cubone",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/104.svg",
+        "type": "ground",
+        "description": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody."
+    },
+    {
+        "id": 105,
+        "name": "Marowak",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/105.svg",
+        "type": "ground",
+        "description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
+    },
+    {
+        "id": 106,
+        "name": "Hitmonlee",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/106.svg",
+        "type": "fighting",
+        "description": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy."
+    },
+    {
+        "id": 107,
+        "name": "Hitmonchan",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/107.svg",
+        "type": "fighting",
+        "description": "Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill."
+    },
+    {
+        "id": 108,
+        "name": "Lickitung",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/108.svg",
+        "type": "normal",
+        "description": "Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis."
+    },
+    {
+        "id": 109,
+        "name": "Koffing",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/109.svg",
+        "type": "poison",
+        "description": "In hot places, its internal gases could expand and explode without any warning. Be very careful!"
+    },
+    {
+        "id": 110,
+        "name": "Weezing",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/110.svg",
+        "type": "poison",
+        "description": "It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage."
+    },
+    {
+        "id": 111,
+        "name": "Rhyhorn",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/111.svg",
+        "type": "ground, rock",
+        "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
+    },
+    {
+        "id": 112,
+        "name": "Rhydon",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/112.svg",
+        "type": "ground, rock",
+        "description": "Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava."
+    },
+    {
+        "id": 113,
+        "name": "Chansey",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/113.svg",
+        "type": "normal",
+        "description": "A gentle and kindhearted POKéMON that shares its nutritious eggs if it sees an injured POKéMON."
+    },
+    {
+        "id": 114,
+        "name": "Tangela",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/114.svg",
+        "type": "grass",
+        "description": "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing."
+    },
+    {
+        "id": 115,
+        "name": "Kangaskhan",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/115.svg",
+        "type": "normal",
+        "description": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected."
+    },
+    {
+        "id": 116,
+        "name": "Horsea",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/116.svg",
+        "type": "water",
+        "description": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth."
+    },
+    {
+        "id": 117,
+        "name": "Seadra",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/117.svg",
+        "type": "water",
+        "description": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping."
+    },
+    {
+        "id": 118,
+        "name": "Goldeen",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/118.svg",
+        "type": "water",
+        "description": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups."
+    },
+    {
+        "id": 119,
+        "name": "Seaking",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/119.svg",
+        "type": "water",
+        "description": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
+    },
+    {
+        "id": 120,
+        "name": "Staryu",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/120.svg",
+        "type": "water",
+        "description": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle."
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/121.svg",
+        "type": "water, psychic",
+        "description": "The center section is named the core. People think it is communicating when it glows in 7 colors."
+    },
+    {
+        "id": 122,
+        "name": "Mr-mime",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/122.svg",
+        "type": "psychic, fairy",
+        "description": "Always practices its pantomime act. It makes enemies believe something exists that really doesn't."
+    },
+    {
+        "id": 123,
+        "name": "Scyther",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/123.svg",
+        "type": "bug, flying",
+        "description": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja."
+    },
+    {
+        "id": 124,
+        "name": "Jynx",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/124.svg",
+        "type": "ice, psychic",
+        "description": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks."
+    },
+    {
+        "id": 125,
+        "name": "Electabuzz",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/125.svg",
+        "type": "electric",
+        "description": "If a major power outage occurs, it is certain that this POKéMON has eaten electricity at a power plant."
+    },
+    {
+        "id": 126,
+        "name": "Magmar",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/126.svg",
+        "type": "fire",
+        "description": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire."
+    },
+    {
+        "id": 127,
+        "name": "Pinsir",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/127.svg",
+        "type": "bug",
+        "description": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places."
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/128.svg",
+        "type": "normal",
+        "description": "A rowdy POKéMON with a lot of stamina. Once running, it won't stop until it hits something."
+    },
+    {
+        "id": 129,
+        "name": "Magikarp",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/129.svg",
+        "type": "water",
+        "description": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles."
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/130.svg",
+        "type": "water, flying",
+        "description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/131.svg",
+        "type": "water, ice",
+        "description": "A gentle soul that can read the minds of people. It can ferry people across the sea on its back."
+    },
+    {
+        "id": 132,
+        "name": "Ditto",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/132.svg",
+        "type": "normal",
+        "description": "When it spots an enemy, its body transfigures into an almost perfect copy of its opponent."
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/133.svg",
+        "type": "normal",
+        "description": "Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive."
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/134.svg",
+        "type": "water",
+        "description": "Its cell structure is similar to water molecules. It will melt away and become invis­ ible in water."
+    },
+    {
+        "id": 135,
+        "name": "Jolteon",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/135.svg",
+        "type": "electric",
+        "description": "A sensitive POKéMON that easily becomes sad or angry. Every time its mood changes, it charges power."
+    },
+    {
+        "id": 136,
+        "name": "Flareon",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/136.svg",
+        "type": "fire",
+        "description": "It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees."
+    },
+    {
+        "id": 137,
+        "name": "Porygon",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/137.svg",
+        "type": "normal",
+        "description": "The only POKéMON people anticipate can fly into space. None has managed the feat yet, however."
+    },
+    {
+        "id": 138,
+        "name": "Omanyte",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/138.svg",
+        "type": "rock, water",
+        "description": "An ancient POKéMON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about."
+    },
+    {
+        "id": 139,
+        "name": "Omastar",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/139.svg",
+        "type": "rock, water",
+        "description": "Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct."
+    },
+    {
+        "id": 140,
+        "name": "Kabuto",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/140.svg",
+        "type": "rock, water",
+        "description": "A POKéMON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor."
+    },
+    {
+        "id": 141,
+        "name": "Kabutops",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/141.svg",
+        "type": "rock, water",
+        "description": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids."
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/142.svg",
+        "type": "rock, flying",
+        "description": "A ferocious, prehistoric POKéMON that goes for the enemy's throat with its serrated saw-like fangs."
+    },
+    {
+        "id": 143,
+        "name": "Snorlax",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/143.svg",
+        "type": "normal",
+        "description": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach."
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/144.svg",
+        "type": "ice, flying",
+        "description": "A legendary bird POKéMON. It freezes water that is contained in winter air and makes it snow."
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/145.svg",
+        "type": "electric, flying",
+        "description": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts."
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/146.svg",
+        "type": "fire, flying",
+        "description": "A legendary bird POKéMON. As it flaps its flaming wings, even the night sky will turn red."
+    },
+    {
+        "id": 147,
+        "name": "Dratini",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/147.svg",
+        "type": "dragon",
+        "description": "The existence of this mythical POKéMON was only recently confirmed by a fisherman who caught one."
+    },
+    {
+        "id": 148,
+        "name": "Dragonair",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/148.svg",
+        "type": "dragon",
+        "description": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions."
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/149.svg",
+        "type": "dragon, flying",
+        "description": "It is said that this POKéMON lives somewhere in the sea and that it flies. However, it is only a rumor."
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/150.svg",
+        "type": "psychic",
+        "description": "Its DNA is almost the same as MEW's. However, its size and disposition are vastly different."
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/151.svg",
+        "type": "psychic",
+        "description": "When viewed through a microscope, this POKéMON's short, fine, delicate hair can be seen."
+    }
+]
+}
