@@ -1,0 +1,23 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "description": "REST API built with typicode / json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janne-nylund/pokedex-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janne-nylund/pokedex-api/issues"
+  },
+  "homepage": "https://github.com/janne-nylund/pokedex-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
