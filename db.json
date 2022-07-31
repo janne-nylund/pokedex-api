@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Bulbasaur",
         "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg",
-        "type": "grass,poison",
+        "type": "grass, poison",
         "description": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy."
     },
     {
@@ -137,7 +137,7 @@
         "id": 20,
         "name": "Raticate",
         "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/20.svg",
-        "type": "normal,",
+        "type": "normal",
         "description": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
     },
     {
